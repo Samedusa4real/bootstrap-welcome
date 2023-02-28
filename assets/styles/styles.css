@@ -1,0 +1,65 @@
+header{
+    border-bottom: 1px solid black;
+}
+
+header nav{
+    position: fixed;
+    top: 0;   
+}
+
+#slider-section {
+    margin-bottom: 100px;
+}
+
+/* education section start */
+
+#education-section .container .row .col-md-6 h2{
+    margin-bottom: 70px;
+}
+
+#education-section img{
+    height: 75px;
+    width: 75px;
+}
+
+#education-section .row.col-md-6 .col-md-5 {
+    padding: 10px 10px;
+    height: 220px;
+    border: 1px solid black;
+    width: 300px;
+
+}
+
+#education-section .row.col-md-6 .col-md-5{
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+#education-section .row.col-md-6 .col-md-5 h2{
+    margin-top: 40px;
+    align-self: flex-end;
+}
+
+
+/* why code academy section */
+
+#why-code-academy-section .container .row .section-title h2{
+    margin-bottom: 50px;
+}
+
+.section-title{
+    margin-bottom: 150px;
+}
+
+#why-code-academy-section{
+    margin-top: 200px;
+}
+
+#why-code-academy-section .row .row.col-md-6 .col-md-6 a{
+  text-decoration: none;
+   color: black;
+   font-weight: 700;
+}
+
